@@ -1,0 +1,1 @@
+worker: python safety_bot.py
